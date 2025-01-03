@@ -24,7 +24,7 @@ tile_map_data = PackedByteArray("AAAGAP3/AAABAAYAAAAGAP7/AAABAAcAAAAGAP//AAABAAg
 position = Vector2(71, -48)
 speed = 600
 
-[node name="Camera2D" parent="Player" index="2"]
+[node name="Camera2D" parent="Player" index="3"]
 limit_left = -63
 limit_top = -271
 limit_right = 1709
